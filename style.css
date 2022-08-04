@@ -1,0 +1,21 @@
+h1{
+    background: blanchedalmond;
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    border-radius: 100%;
+    border-color: black;
+    
+}
+hr{
+background-color: black;
+    height: 25px; ;
+   
+}
+.a {
+
+    border: 2px ;
+    width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+   
+}
